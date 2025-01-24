@@ -1,0 +1,3 @@
+genanki==0.13.1
+joblib==1.4.2
+llm==0.20
